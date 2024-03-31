@@ -27,15 +27,15 @@ Ensuite, il faut avoir un émulateur Android.
 Le projet comporte cinq pages distinctes :
 > **Page d'accueil** :
 La page d'accueil permet de visualiser la liste des premiers Comics, Series, Films et Personnages ainsi que deux actualités.
-Le bouton Voir Plus mène vers des informations supplémentaires.
+Le bouton Voir Plus mène vers des informations supplémentaires.   
 > **Page Série** :
-Cette page permet d'accéder à une liste de 50 Séries, en appuyant sur l'une, on obtient les infos supplémentaires de cette série.
+Cette page permet d'accéder à une liste de 50 Séries, en appuyant sur l'une, on obtient les infos supplémentaires de cette série.   
 > **Page Comics** :
-Cette page permet d'accéder à une liste de 50 Comics, en appuyant sur l'un, on obtient les infos supplémentaires de ce Comic.
+Cette page permet d'accéder à une liste de 50 Comics, en appuyant sur l'un, on obtient les infos supplémentaires de ce Comic.   
 > **Page Films** :
-Cette page permet d'accéder à une liste de 50 Films, en appuyant sur l'un, on obtient les infos supplémentaires de ce film.
+Cette page permet d'accéder à une liste de 50 Films, en appuyant sur l'un, on obtient les infos supplémentaires de ce film.   
 > **Page Recherche** :
-Cette page permet d'accéder à une barre de recherche pour trouver directement ce que l'on souhaite.
+Cette page permet d'accéder à une barre de recherche pour trouver directement ce que l'on souhaite.   
 
 ### Fonctionnalités implémentées
  - Navigator 1
